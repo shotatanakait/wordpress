@@ -26,3 +26,5 @@ wp-content/*.sql
 wp-content/*.sql.gz
 
 # Ignore any specific files or directories you don't want to include
+
+.env
