@@ -13,6 +13,7 @@ wp-content/upgrade/
 
 # Ignore WordPress default themes
 wp-content/themes/twenty*/
+!wp-content/themes/twentytwentyfour/
 wp-content/themes/index.php
 
 # Ignore WordPress default plugins
